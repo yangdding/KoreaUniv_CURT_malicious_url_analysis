@@ -72,8 +72,7 @@ The following features were extracted from raw URLs:
 
 ## 🙌 Contributors
 
-- **양진영** - Korea Military Academy / Korea University CURT Program
-- Project guidance: Korea University AI Lab
+- **양진영** - Korea University CURT Program
 
 ---
 
